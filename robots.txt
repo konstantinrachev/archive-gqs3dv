@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://konstantinrachev.github.io/archive-gqs3dv/sitemap.xml
